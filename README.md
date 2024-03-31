@@ -1,7 +1,7 @@
 # Swift-UI-Optionals-lesson-Playground
 Swift UI Optionals lesson Playground
 ## Regulat Int
-![Screenshot 2024-03-31 at 3 52 36 PM](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/9d64832e-8d92-4bef-88da-f1138dbf26a9)
+![regular](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/153ea70a-cd16-4044-884e-2fed2d6774dd)
 
 ## Optional Int (see the question mark)
 ![Screenshot 2024-03-31 at 3 54 30 PM](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/e9ce2505-17d7-485f-89df-fa64f97e2730)
