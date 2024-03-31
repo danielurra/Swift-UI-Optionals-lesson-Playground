@@ -1,6 +1,7 @@
 # SwiftUI Optionals lesson Playground
 Swift UI Optionals lesson Playground
 ## Regulat Int
+Hover over the var name and hold the `Option` key to reveal the type:<br>
 ![regular](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/153ea70a-cd16-4044-884e-2fed2d6774dd)
 
 ## Optional Int (see the question mark)
