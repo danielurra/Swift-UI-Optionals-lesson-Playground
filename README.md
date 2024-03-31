@@ -10,4 +10,4 @@ Hover over the var name and hold the `Option` key to reveal the type:<br>
 ## Another way to see them
 
 ![Screenshot 2024-03-31 at 3 43 08 PM](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/854a2bf3-ed0c-48ce-a787-a37e99584396)
-![Screenshot 2024-03-31 at 3 43 08 PM](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/25a91534-7b7b-4e89-b567-e915931494dd)
+
