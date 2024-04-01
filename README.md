@@ -5,6 +5,8 @@ Hover over the var name and hold the `Option` key to reveal the type:<br>
 ![regular](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/153ea70a-cd16-4044-884e-2fed2d6774dd)
 
 ## Optional Int (see the question mark)
+![Optional-type-question-mark](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/ce4f8383-97fe-46b7-a4e0-4904c273f8d4)
+
 ![Screenshot 2024-03-31 at 3 54 30 PM](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/e9ce2505-17d7-485f-89df-fa64f97e2730)
 
 ## Another way to see them
