@@ -28,6 +28,7 @@ Every time you use the exclamation mark solution this process is technically kno
 
 ## Fatal Error
 If you try to unwrap a var that currently is `nil` you'll get a `fatal error`:<br>
+![fatal-error](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/8aae6fb9-6978-400e-92c7-262ea160a53d)
 
 
 
