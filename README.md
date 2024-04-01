@@ -26,6 +26,10 @@ One way would be to add an exclamation mark at the end of the variable's name:<b
 Every time you use the exclamation mark solution this process is technically known as `unwraping`.<br>
 ![unwrapped](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/0d00c8c0-35a7-4505-8918-7d804adcfed5)
 
+## Fatal Error
+If you try to unwrap a var that currently is `nil` you'll get a `fatal error`:<br>
+
+
 
 
 
