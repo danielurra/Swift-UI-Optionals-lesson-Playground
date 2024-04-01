@@ -13,3 +13,7 @@ Start typing the variable's name and wait for autocomplete to show you the var t
 
 ![Screenshot 2024-03-31 at 3 43 08 PM](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/854a2bf3-ed0c-48ce-a787-a37e99584396)
 
+## Nil represents nothing
+![Nil represents nothing here](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/a6ac1f12-97b9-49a9-aae3-c9d5b6f6dcb5)
+
+
