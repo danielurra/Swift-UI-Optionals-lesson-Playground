@@ -23,6 +23,7 @@ If you hit the red circle you can see how this error can be fixed.<br>
 
 One way would be to add an exclamation mark at the end of the variable's name:<br>
 ![add-exclamation-mark](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/64757880-11e9-4f5f-b790-82de9b01ea65)
+Every time you use the exclamation mark solution this process is technically known as `unwraping`.<br>
 
 
 
