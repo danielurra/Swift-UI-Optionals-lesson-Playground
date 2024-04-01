@@ -16,4 +16,14 @@ Start typing the variable's name and wait for autocomplete to show you the var t
 ## Nil represents nothing
 ![Nil represents nothing here](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/a6ac1f12-97b9-49a9-aae3-c9d5b6f6dcb5)
 
+## Do math error
+If you try to do math with a variable that has its type declared as optional you'll get an error.<br>
+If you hit the red circle you can see how this error can be fixed.<br>
+![do-math-error](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/393ea226-66bb-4657-895b-f58a103b8ce3)
+
+One way would be to add an exclamation mark at the end of the variable's name:<br>
+![add-exclamation-mark](https://github.com/danielurra/Swift-UI-Optionals-lesson-Playground/assets/51704179/64757880-11e9-4f5f-b790-82de9b01ea65)
+
+
+
 
